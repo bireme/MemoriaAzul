@@ -1,4 +1,6 @@
 # Memória Azul
+ESTE REPOSITÓRIO ESTÁ DESCONTINUADO. EVOLUIU PARA *e-BlueInfo* DISPONÍVEL EM https://github.com/bireme/e-blueinfo-wp-plugin
+
 "Software desenvolvido para desktops e dispositivos móveis que permita que profissionais da área de saúde, através de interface de recuperação, obtenham de maneira organizada e simplificada informação de qualidade (referências e/ou texto completo) na sua área de atuação mesmo em situações onde a conexão com a internet seja ruim ou inexistente."
 
 ## Quem?   
